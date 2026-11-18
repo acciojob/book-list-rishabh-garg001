@@ -1,7 +1,7 @@
 //your JS code here. If required.
 
 const form = document.getElementById("book-form");
-const bookList = document.getElementById("book-list");
+const bookList = document.getElementById("book-table-body");
 
 form.addEventListener("submit", function(e) {
 
